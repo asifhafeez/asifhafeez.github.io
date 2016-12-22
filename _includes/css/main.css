@@ -79,6 +79,9 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-responsive {
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -93,6 +96,7 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    border-radius: 40px;
 }
 
 header .intro-text .name {
