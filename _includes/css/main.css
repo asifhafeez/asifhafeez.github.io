@@ -16,6 +16,10 @@ p.small {
     font-size: 16px;
 }
 
+p.post-description {
+    text-align: left;
+}
+
 a,
 a:hover,
 a:focus,
@@ -80,6 +84,10 @@ hr.star-primary:after {
 }
 
 .img-responsive {
+}
+
+.img-snapshot {
+    padding: 40px 0 40px 0;
 }
 
 header {
@@ -446,6 +454,15 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.post-links {
+    padding-bottom: 40px;
+}
+
+.post-link {
+    font-size: 20px;
+    padding-bottom: 50px;
 }
 
 .navbar-nav>.active>a {
