@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-10-16
-img: 
+img: kelp.png
 snapshot: 
 alt: image-alt
 project-date: November 2016
