@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 23 Dec 2016 13:45:21 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Dec 2016 13:45:21 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Dec 2016 17:12:36 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Dec 2016 17:12:36 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Kelp</title>
-        <description>A Yelp clone specialising in Sea Food</description>
+        <description>A Yelp clone specialising in Sea Food, built using Ruby on Rails</description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/software%20development/2016/10/16/Kelp/</link>
         <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/Kelp/</guid>
@@ -46,6 +46,30 @@
       </item>
     
       <item>
+        <title>Red Giraffe</title>
+        <description>A Movie Review Website built using Ruby on Rails</description>
+        <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/software%20development/2016/10/16/red-giraffe/</link>
+        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/red-giraffe/</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Makersbnb</title>
+        <description>An Airbnb clone built using Ruby Sinatra and DataMapper.</description>
+        <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/software%20development/2016/10/16/makersbnb/</link>
+        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/makersbnb/</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
         <title>Triviasmack</title>
         <description>A Multiplayer Pub Quiz for the Amazon Alexa voice software</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
@@ -54,30 +78,6 @@
         
         
         <category>Software Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 6</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 5</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
-        
-        
-        <category>Web Development</category>
         
       </item>
     
