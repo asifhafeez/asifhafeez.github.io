@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 3
+date: 2016-10-16
+img: kelp.png
+snapshot: 
+alt: image-alt
+project-date: November 2016
+category: Software Development
+github: https://github.com/asifhafeez/kelp
+example-link: https://kelp-restaurants.herokuapp.com/
+example-title: Deployed Website
+description: A Yelp clone specialising in Sea Food
+technologies: Ruby on Rails, RSpec, 
+background: Makers Academy Week 8 Project 
+information: 
+---
+

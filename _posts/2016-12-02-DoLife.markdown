@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-18
+date: 2016-12-02
 img: do-life.png
 snapshot: react-node.png
 alt: image-alt
