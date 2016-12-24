@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Dec 2016 16:18:36 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Dec 2016 16:18:36 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Dec 2016 16:38:52 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Dec 2016 16:38:52 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -46,11 +46,11 @@
       </item>
     
       <item>
-        <title>Red Giraffe</title>
-        <description>A Movie Review Website built using Ruby on Rails</description>
+        <title>Makersbnb</title>
+        <description>An Airbnb clone built using Ruby Sinatra and DataMapper.</description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/software%20development/2016/10/16/red-giraffe/</link>
-        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/red-giraffe/</guid>
+        <link>http://localhost:4000/software%20development/2016/10/16/makersbnb/</link>
+        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/makersbnb/</guid>
         
         
         <category>Software Development</category>
@@ -58,11 +58,11 @@
       </item>
     
       <item>
-        <title>Makersbnb</title>
-        <description>An Airbnb clone built using Ruby Sinatra and DataMapper.</description>
-        <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/software%20development/2016/10/16/makersbnb/</link>
-        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/makersbnb/</guid>
+        <title>Red Giraffe</title>
+        <description>A Movie Review Website built using Ruby on Rails</description>
+        <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/software%20development/2016/01/18/red-giraffe/</link>
+        <guid isPermaLink="true">http://localhost:4000/software%20development/2016/01/18/red-giraffe/</guid>
         
         
         <category>Software Development</category>
