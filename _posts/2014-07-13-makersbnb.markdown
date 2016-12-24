@@ -2,8 +2,8 @@
 layout: default
 modal-id: 6
 date: 2016-10-16
-img: kelp.png
-snapshot: 
+img: makersbnb.png
+snapshot: makersbnb-snap.png
 alt: image-alt
 project-date: November 2016
 category: Software Development
