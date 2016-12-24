@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2016-10-16
 img: kelp.png
-snapshot: 
+snapshot: kelp-snapshot.png
 alt: image-alt
 project-date: November 2016
 category: Software Development
@@ -11,8 +11,8 @@ github: https://github.com/asifhafeez/kelp
 example-link: https://kelp-restaurants.herokuapp.com/
 example-title: Deployed Website
 description: A Yelp clone specialising in Sea Food, built using Ruby on Rails
-technologies: Ruby on Rails, RSpec, 
+technologies: Ruby on Rails, RSpec/Capybara, HAML, Bootstrap, CSS
 background: Makers Academy Week 8 Project 
-information: 
+information: This was one of my favourite projects. We were given the task of re-creating Yelp using Ruby on Rails. <br><br> I found rails worked well in our team dynamic and the project was the perfect size for a weeks worth of work. Unfortunately, we struggled with Bootstrap and CSS and did not manage to implement the styling we wanted on all of the pages. I hope to go back to this project and brush up on the styling elements in the future because the back-end is well structured.<br><br> Our successes include fantastic test coverage, brilliant back-end work on the models and a fantastic team dynamic. The latter of which included us following agile methodologies and ensuring daily stand ups, alongside semi-regular retros. 
 ---
 
