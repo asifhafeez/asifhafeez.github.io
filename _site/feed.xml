@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Dec 2016 17:44:17 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Dec 2016 17:44:17 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Dec 2016 02:55:30 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2016 02:55:30 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Kelp</title>
-        <description>A Yelp clone specialising in Sea Food, built using Ruby on Rails</description>
+        <description>A Yelp clone specialising in Sea Food, built using the Rails Framework</description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/software%20development/2016/10/16/Kelp/</link>
         <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/Kelp/</guid>
@@ -47,7 +47,7 @@
     
       <item>
         <title>Makersbnb</title>
-        <description>An Airbnb clone built using Ruby Sinatra and DataMapper.</description>
+        <description>An Airbnb clone built using Sinatra and DataMapper.</description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/software%20development/2016/10/16/makersbnb/</link>
         <guid isPermaLink="true">http://localhost:4000/software%20development/2016/10/16/makersbnb/</guid>
@@ -71,7 +71,7 @@
     
       <item>
         <title>Triviasmack</title>
-        <description>A Multiplayer Pub Quiz for the Amazon Alexa voice software</description>
+        <description>A Multiplayer Pub Quiz for the Amazon Alexa voice software built using Java</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/software%20development/2014/07/18/triviaSMACK/</link>
         <guid isPermaLink="true">http://localhost:4000/software%20development/2014/07/18/triviaSMACK/</guid>

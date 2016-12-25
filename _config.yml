@@ -38,14 +38,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: http://github.com/jekyll
   - title: envelope
-    url: asifsalmanhafeez@gmail.com
+    url: mailto:asifsalmanhafeez@gmail.com
+  - title: twitter
+    url: https://twitter.com/ahafeez89
+  - title: github
+    url: https://github.com/asifhafeez/
   - title: linkedin
-    url: http://linkedin.com
+    url: https://uk.linkedin.com/in/asif-hafeez-361612135
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/7338890/asif-hafeez
 
 # Postal address (add as many lines as necessary)
 address:
