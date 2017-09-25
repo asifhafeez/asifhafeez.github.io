@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 2
+date: 2016-12-02
+img: hushKeys.png
+snapshot: hushKeys.png
+alt: image-alt
+project-date: December 2016
+client: HushKeys
+category: Software Development
+github: 
+example-link: https://hushkeys.com
+example-title: Live Production Website
+description: A Social Media website built for a startup using ReactJS.
+technologies: ReactJS, Redux, Jest
+background: Built for client at Softwire
+information: The main difference between this and other social media websites is the lens in the middle. I encourage anyone reading to visit the link above and take a look to understand! In essence, some of the posts have hidden text or images and in order to reveal the hidden part, you must drag the lens onto the hidden part. Note, you need the correct key to reveal the post! If you don't have the key, you can request for it.<br/><br/> I worked on this project from its inception alongside 3 other team members. Originally we were tasked with creating a read-only version of the iOS application. This then evolved into a fully-featured website which will be wrapped and turned into a progressive web application in the future. It will serve as the Android app, as well as the website, killing two birds with one stone. <br/><br/> This was the first real life project I have ever worked on and I learnt a lot about working alongside other team members, writing clean maintainable code, workflows and estimating tickets. I now have an advanced understanding of React, Redux and Vanilla Javascript. 
+---
+

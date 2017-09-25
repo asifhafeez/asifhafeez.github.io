@@ -85,7 +85,12 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-grid {
+    height: 200px;
+}
+
 .img-responsive {
+    margin: 0 auto;
 }
 
 .img-snapshot {
@@ -477,4 +482,14 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.about-link {
+    color: white;
+    text-decoration: underline;
+}
+
+.about-link:hover {
+    color: white;
+    text-decoration: none;
 }

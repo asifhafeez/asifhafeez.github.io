@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <div class="post-links">
-                                <a href="{{post.github}}" class="post-link" target="_blank">Github Repository</a><br>
+                                <a href="{{post.github}}" class="post-link" target="_blank">{{post.github ? "Github Repository" : null}}</a><br>
                                 <a href="{{post.example-link}}" class="post-link" target="_blank">{{post.example-title}}</a>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
